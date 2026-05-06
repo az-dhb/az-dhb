@@ -47,10 +47,6 @@ I am a Computer Science student at **ESTIN** driven by the philosophy of **shipp
 * **Tech:** Flutter, Supabase, Provider.
 * **Key Feature:** Real-time workout tracking and localized data persistence.
 
-### 🌐 [Project Name]
-*Brief description of another key project.*
-* **Tech:** Next.js, Tailwind CSS, PostgreSQL.
-
 ---
 
 ## 📈 GitHub Analytics
