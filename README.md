@@ -59,7 +59,18 @@ I enjoy turning ideas into working systems, from mobile apps to full-stack web p
 > *“I came, I saw, I conquered”*
 
 ---
+### 📈 GitHub Analytics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=az-dhb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=az-dhb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=az-dhb&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 🛠️ Skills
 
