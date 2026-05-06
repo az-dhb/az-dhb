@@ -44,7 +44,7 @@ I am a Computer Science student at **ESTIN** driven by the philosophy of **shipp
 
 ### 🏋️ [Mxssy](https://github.com/az-dhb)
 *A high-performance fitness tracker built with Flutter.*
-* **Tech:** Flutter, Supabase, Provider.
+* **Tech:** Flutter, Firebase.
 * **Key Feature:** Real-time workout tracking and localized data persistence.
 
 ---
@@ -64,7 +64,7 @@ I am a Computer Science student at **ESTIN** driven by the philosophy of **shipp
 
 <div align="center">
   
-> *"I came, I saw, I conquered — then I refactored it."*
+> *"I came, I saw, I conquered."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=130&section=footer" />
 
